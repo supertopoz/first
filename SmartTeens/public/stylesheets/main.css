@@ -1,0 +1,47 @@
+
+.navbar-toggle {
+    display: inline-block !important;
+    float:left;
+    margin-left: 10px;
+}
+
+#login-btn{
+    margin-right: 10px;
+}
+
+.thumbnail img {
+    width: 100%;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+}
+
+#delete {
+    display:inline;
+}
+
+.navmenu-default, .navbar-default .navbar-offcanvas {
+    background-color: #f8f8f8;
+    border-color: #e7e7e7;
+    width: 110px !important;
+    color: #8bc543;
+}
+
+.side-menu-text {
+    color: #8bc543 !important;
+    
+}
+
+.container{
+    padding-top: 100px;
+}
+
+.form-width{
+  width: 40%;
+}
+
